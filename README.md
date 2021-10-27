@@ -1,6 +1,6 @@
 # emergenacy
 
-### Some importants commands thatcan save you day
+### Some importants commands that can save your day
 
     changed recently in Linux?
 
